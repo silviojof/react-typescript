@@ -1,0 +1,1 @@
+Basic App with Typescript with the purpose of learning how to use Typescript with React
